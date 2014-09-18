@@ -13,7 +13,7 @@ Status:
 
 Database is good (h2 jpa config without jta/persistence xml) via undocumented config options... see json xml
 
-Welcom page comes up.
+Welcome page comes up.
 
 Visiting the admin results in an error, something is make the url contain an extra slash after server port....
 
