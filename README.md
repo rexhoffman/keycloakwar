@@ -1,3 +1,7 @@
+[![codebeat badge](https://codebeat.co/badges/83cad6ad-4368-4484-bb4f-bb3cbee36899)](https://codebeat.co/projects/github-com-rexhoffman-java-keyring-master)
+[![codecov](https://codecov.io/gh/rexhoffman/java-keyring/branch/master/graph/badge.svg)](https://codecov.io/gh/rexhoffman/java-keyring)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/96803c08ce79466e9255ed5e713a0c60)](https://www.codacy.com/app/rexhoffman/java-keyring?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rexhoffman/java-keyring&amp;utm_campaign=Badge_Grade)
+
 keycloakwar
 =============
 
